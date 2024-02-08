@@ -1,6 +1,6 @@
 ## About us
 
-We are the home of some crazy, real-time ideas. 🤪
+Inter-planetary real-time communication. 🚀
 
 ## Soketi
 
