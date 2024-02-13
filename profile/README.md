@@ -29,4 +29,5 @@ Community projects:
 - [Soketi App Manager for Filament](https://github.com/rahulhaque/soketi-app-manager-filament) - manage Soketi apps via Filament
 - [Basement Chat](https://github.com/basement-chat/basement-chat) - add chat to your Laravel application
 - [Simple Chat](https://github.com/kitar/simplechat) - showcased chat app built with Soketi and DynamoDB
-  
+
+Thank you to Bunny! 🌸
