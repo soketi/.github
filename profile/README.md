@@ -30,5 +30,5 @@ Broadcasting real-time messages across the universe. 📡 ✨
 
 ## Special Thanks 🙌
 
-- [Alex Bouma (@stayallive)](https://github.com/stayallive)
 - Bunny! 🌸
+- [Alex Bouma (@stayallive)](https://github.com/stayallive)
