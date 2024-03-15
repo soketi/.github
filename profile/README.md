@@ -29,6 +29,6 @@ Broadcasting real-time messages across the universe. 📡 ✨
 - [Soketi Basics by Codecourse](https://codecourse.com/courses/soketi-basics)
 
 ## Special Thanks 🙌
-
-- Bunny! 🌸
+Thank you to Bunny! 🌸
+  
 - [Alex Bouma (@stayallive)](https://github.com/stayallive)
