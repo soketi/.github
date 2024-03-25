@@ -6,6 +6,14 @@
 
 Broadcasting real-time messages across the universe. 📡 ✨
 
+## 🤝 Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/rennokki">
+    <img src='https://cdn.jsdelivr.net/gh/rennokki/sponsorkit-assets@main/assets/sponsors.svg' alt="Logos from Sponsors" />
+  </a>
+</p>
+
 ## Deploy Soketi
 - [Deploy with Railway 🚝](https://railway.app/template/Z6dOtj?referralCode=T4V-jV)
 - [Deploy with Cleavr 🔪](https://cleavr.io/cleavr-slice/how-to-install-soketi)
